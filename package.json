@@ -1,0 +1,13 @@
+{
+  "name": "socket-real-time-chat",
+  "version": "1.0.0",
+  "description": "SocketIO for real time chat",
+  "main": "index.js",
+  "author": "kawsar",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "express": "4",
+    "socket.io": "^4.6.0"
+  }
+}
